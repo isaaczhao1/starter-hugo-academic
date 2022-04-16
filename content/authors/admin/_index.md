@@ -2,8 +2,8 @@
 title: Xiangyu Zhao
 role: M.S. student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include operational amplifier and analog-to-digital
+  converter.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
