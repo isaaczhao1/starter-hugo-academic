@@ -1,7 +1,7 @@
 ---
 title: Xiangyu Zhao
 role: M.S. student
-avatar_filename: 赵翔宇.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
